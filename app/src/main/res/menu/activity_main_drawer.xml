@@ -20,7 +20,7 @@
             android:id="@+id/create_test"
             android:icon="@android:drawable/ic_menu_add"
             android:font="@font/lato_black"
-            android:visible="true"
+            android:visible="false"
             android:title="Admin "/>
     </group>
 
@@ -43,7 +43,8 @@
                 android:title="SignOut" />
         </menu>
     </item>
-    <item android:title="Info">
+    <item android:title="Info"
+        android:visible="false">
         <menu>
             <item
                 android:id="@+id/about_details"

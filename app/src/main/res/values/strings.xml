@@ -33,8 +33,12 @@
     <string-array name="College_Choice">
         <item>A</item>
         <item>B</item>
+        <item>C</item>
     </string-array>
     <string-array name="Branch_Choice">
+        <item>CSE</item>
+        <item>AIML</item>
+        <item>EEE</item>
         <item>IT</item>
         <item>ECE</item>
         <item>DUAl(IT+ECE)</item>
